@@ -1,2 +1,1 @@
-print("Hello from Repo");
-print("new change");
+print("Hello from Repo")
